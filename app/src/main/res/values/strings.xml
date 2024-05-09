@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MAML-02</string>
+    <string name="aplikasi_multi_activity_multi_layout">Aplikasi Multi Activity Multi Layout</string>
+    <string name="pindah_ke_layout_satu">Pindah Ke Layout Satu</string>
+    <string name="pndhlt2">Pindah Ke Layout Dua</string>
+    <string name="multi_activity_dan_layout">MULTI ACTIVITY DAN LAYOUT</string>
+    <string name="pindah_ke_layout_satu1">pindah ke layout satu</string>
+    <string name="Pindah_ke_layout_Dua">\n</string>
+    <string name="pindah_ke_layout_dua">Pindah Ke Layout Dua</string>
+    <string name="pindah_ke_activity_dua">Pindah ke Activity Dua</string>
+    <string name="activity_layout_satu">Activity Layout Satu</string>
+    <string name="kembali_ke_activity_utama">Kembali ke Activity Utama</string>
+    <string name="activity_layout_dua">Activity Layout Dua</string>
+    <string name="pindah_ke_activity_tiga">Pindah ke Activity Tiga</string>
+    <string name="kembali_ke_activity_utama1">Kembali ke Activity Utama</string>
+    <string name="activity_layout_tiga">Activity Layout Tiga</string>
+    <string name="pindah_ke_activity_dua2">Pindah ke Activity Dua</string>
+    <string name="kembali_ke_activity_utama3">Kembali ke Activity Utama</string>
+</resources>
